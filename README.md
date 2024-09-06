@@ -128,7 +128,7 @@ Therefore always ask yourself - ***Will users (or higher-level) modules be able 
 
 ### Together or Apart?
 
-"Should I Implement them in one place or separately" is a common question if it comes to the different functinalities implementation. Some important things about subdividing code:
+**"Should I Implement them in one place or separately"** is a common question if it comes to the different functinalities implementation. Some important things about subdividing code:
 - Some complexity comes just from number of components - the more of them, the harder is to keep track of them and to find a desired one.
 - Subdivision can result in additional code to manage components.
 - Subdivision can result in duplication. 
